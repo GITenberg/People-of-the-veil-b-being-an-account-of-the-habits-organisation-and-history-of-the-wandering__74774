@@ -1,0 +1,41 @@
+_repo: People-of-the-veil-b-being-an-account-of-the-habits-organisation-and-history-of-the-wandering__74774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rennell of Rodd, Francis James Rennell Rodd, Baron
+    aliases:
+    - Rodd, Francis Rennell
+    - Rennell, Francis James Rennell Rodd, Baron
+    - Rennell, Baron (Francis James Rennell Rodd)
+    - Rodd, Francis J. R. (Francis James Rennell), Baron Rodd of Rennell
+    birthdate: 1895
+    deathdate: 1978
+    gutenberg_agent_id: '57638'
+    url: http://www.gutenberg.org/2009/agents/57638
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Rodd,_2nd_Baron_Rennell
+description: ''
+gutenberg_issued: '2024-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74774'
+  lccn: '27013328'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.32106012747694
+pgterms:marc905: 20241031124527rodd
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the HathiTrust Digital Library/University of California)
+publication_note: '  $aLondon :$bMacmillan and co., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aïr (Niger)'
+- !lcsh 'Tuaregs'
+- !lcc 'DT'
+- GITenberg
+title: 'People of the veil : $b being an account of the habits, organisation and history
+  of the wandering Tuareg tribes which inhabit the mountains of Air or Asben in the
+  central Sahara'
+url: http://www.gutenberg.org/ebooks/74774
